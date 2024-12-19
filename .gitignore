@@ -50,3 +50,26 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Build directories
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
